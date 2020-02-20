@@ -48,6 +48,7 @@
                     <connections>
                         <outlet property="TopLabel" destination="cWY-76-gQf" id="DNb-uj-rHt"/>
                         <outlet property="bottomLabel" destination="FJT-Ek-Uhh" id="lSb-pe-jlz"/>
+                        <outlet property="buttonLabel" destination="2Jd-XY-q7A" id="1LA-Q3-diz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
